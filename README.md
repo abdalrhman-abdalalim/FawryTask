@@ -5,7 +5,7 @@ This document outlines how **Object-Oriented Programming (OOP)** principles and 
 
 ---
 
-## 🔑 Core OOP Principles Applied
+##  Core OOP Principles Applied
 
 ---
 
@@ -108,7 +108,7 @@ function ShippingService() {
 
 ---
 
-## 🧱 Class Responsibilities
+##  Class Responsibilities
 
 ---
 
@@ -187,7 +187,7 @@ Coordinates the entire e-commerce workflow.
 
 ---
 
-## 🧩 Key OOP Patterns
+##  Key OOP Patterns
 
 ---
 
@@ -235,12 +235,12 @@ button.addEventListener('click', () => store.addToCart('p1'));
 
 ---
 
-## 🔁 Object Collaboration Diagram
+##  Object Collaboration Diagram
 <img src="oopDigram.png"/>
 
 ---
 
-## 📐 SOLID Principles Applied
+##  SOLID Principles Applied
 
 ---
 
@@ -285,15 +285,15 @@ All products that need shipping implement the expected interface:
 
 ---
 
-## 🎯 Benefits of the OOP Design
+##  Benefits of the OOP Design
 
-- ✅ **Modularity** – Small components with focused roles
+-  **Modularity** – Small components with focused roles
     
-- ✅ **Maintainability** – Code is clean and easy to update
+-  **Maintainability** – Code is clean and easy to update
     
-- ✅ **Extensibility** – New features or products can be added easily
+-  **Extensibility** – New features or products can be added easily
     
-- ✅ **Reusability** – Classes like `ShippingService` can be reused elsewhere
+-  **Reusability** – Classes like `ShippingService` can be reused elsewhere
     
-- ✅ **Scalability** – Architecture supports growth in features and complexity
+-  **Scalability** – Architecture supports growth in features and complexity
     
